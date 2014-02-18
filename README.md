@@ -18,5 +18,7 @@
 - 个人发展最重要的是内心有不灭的火苗。激情、分享、坚持，这是对生命最大的爱。
 
 
-欢迎访问我们的 Geek 博客： https://github.com/alipay/x/issues
+---
+
+最后，欢迎访问我们的 Geek 博客： https://github.com/alipay/x/issues
 
