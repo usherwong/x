@@ -9,4 +9,5 @@ oooo
 zongjie dahui
 for (String s : str) {
 	System.out.println(s);
+	s.substring(3);
 }
